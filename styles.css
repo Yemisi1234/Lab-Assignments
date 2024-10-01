@@ -1,0 +1,44 @@
+.container{
+    background-color: rgb(73, 71, 71);
+    padding: 10px;
+    color: #fff;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.container > .aboutus{
+    color: rgb(114, 200, 229);
+    margin-top: 0;
+    font-size: 4em;
+}
+.title{
+    color: rgb(27, 183, 235);
+    font-size: 2em;
+}
+.intro-p{
+    font-size: 1em;
+}
+.intro{
+    color: yellow;
+    
+}
+.italic{
+    font-style: italic;
+}
+img{
+    width: 20%;
+    height: 300px;
+
+}
+.animal{
+    display: flex;
+    flex-direction: row;
+}
+.animal p{
+    margin-top: 16%;
+    margin-right: 5px;
+}
+.imdb{
+    color: red;
+}

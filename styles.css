@@ -29,7 +29,6 @@
 img{
     width: 20%;
     height: 300px;
-
 }
 .animal{
     display: flex;
@@ -41,4 +40,15 @@ img{
 }
 .imdb{
     color: red;
+}
+.validate{ 
+    display: flex;
+}
+.validate p{
+width: 400px;
+height: 30px;
+}
+.my-img{
+width: 20%;
+height: 300px;
 }
